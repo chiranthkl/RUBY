@@ -1,0 +1,17 @@
+body{
+
+    text-align:center;
+    background-image:/home/liveuser/Pictures/Screenshot from 2018-01-24 04-47-56.png;
+    color: brown;
+    
+}
+a{
+    color: aliceblue
+}
+img{
+    border-radius: 75%;
+    border: 4px solid white;
+}
+h1{
+    font-size: 1cm;
+}
